@@ -1,0 +1,23 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "This is a project to test my web 3 knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Fortune Alebiosu",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@types/node": "^18.15.10",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "dotenv": "^16.0.3",
+    "fp-ts": "^2.13.1",
+    "ts-node": "^10.9.1"
+  }
+}
